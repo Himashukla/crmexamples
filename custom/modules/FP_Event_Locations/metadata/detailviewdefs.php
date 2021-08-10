@@ -75,6 +75,13 @@ array (
             'name' => 'contacts_fp_event_locations_1_name',
           ),
         ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'cs_family_fp_event_locations_1_name',
+          ),
+        ),
       ),
       'lbl_editview_panel1' => 
       array (
