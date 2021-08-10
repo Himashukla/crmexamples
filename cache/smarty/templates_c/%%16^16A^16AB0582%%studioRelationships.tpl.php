@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2021-08-06 13:22:17
+<?php /* Smarty version 2.6.31, created on 2021-08-09 06:19:41
          compiled from modules/ModuleBuilder/tpls/studioRelationships.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_translate', 'modules/ModuleBuilder/tpls/studioRelationships.tpl', 47, false),)), $this); ?>

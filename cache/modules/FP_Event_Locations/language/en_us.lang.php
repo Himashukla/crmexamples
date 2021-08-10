@@ -1,5 +1,5 @@
 <?php
-// created: 2021-08-06 13:22:17
+// created: 2021-08-09 06:19:40
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
   'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
@@ -36,4 +36,5 @@ $mod_strings = array (
   'LBL_EDITVIEW_PANEL1' => 'Address',
   'LBL_FP_EVENT_LOCATIONS_FP_EVENTS_1_FROM_FP_EVENTS_TITLE' => 'Events',
   'LBL_ACCOUNTS_FP_EVENT_LOCATIONS_1_FROM_ACCOUNTS_TITLE' => 'Accounts',
+  'LBL_CONTACTS_FP_EVENT_LOCATIONS_1_FROM_CONTACTS_TITLE' => 'Contacts',
 );
