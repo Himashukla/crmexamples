@@ -33,8 +33,13 @@ array (
     ),
     'advanced_search' => 
     array (
-      0 => 'name',
-      1 => 
+      'name' => 
+      array (
+        'name' => 'name',
+        'default' => true,
+        'width' => '10%',
+      ),
+      'assigned_user_id' => 
       array (
         'name' => 'assigned_user_id',
         'label' => 'LBL_ASSIGNED_TO',
@@ -47,6 +52,18 @@ array (
             0 => false,
           ),
         ),
+        'default' => true,
+        'width' => '10%',
+      ),
+      'cs_family_fp_event_locations_1_name' => 
+      array (
+        'type' => 'relate',
+        'link' => true,
+        'label' => 'LBL_CS_FAMILY_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE',
+        'width' => '10%',
+        'default' => true,
+        'id' => 'CS_FAMILY_FP_EVENT_LOCATIONS_1FP_EVENT_LOCATIONS_IDB',
+        'name' => 'cs_family_fp_event_locations_1_name',
       ),
     ),
   ),
