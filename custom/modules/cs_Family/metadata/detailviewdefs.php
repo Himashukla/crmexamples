@@ -30,6 +30,15 @@ array (
           'field' => '30',
         ),
       ),
+      'useTabs' => false,
+      'tabDefs' => 
+      array (
+        'DEFAULT' => 
+        array (
+          'newTab' => false,
+          'panelDefault' => 'expanded',
+        ),
+      ),
     ),
     'panels' => 
     array (
@@ -62,6 +71,16 @@ array (
           array (
             'name' => 'cs_family_fp_event_locations_1_name',
           ),
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            'name' => 'related_account_c',
+            'studio' => 'visible',
+            'label' => 'LBL_RELATED_ACCOUNT',
+          ),
+          1 => '',
         ),
       ),
     ),
